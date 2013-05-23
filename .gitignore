@@ -16,6 +16,7 @@
 /files
 /package/feeds
 /package/openwrt-packages
+/.svn
 *.orig
 *.rej
 *~
